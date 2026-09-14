@@ -1,0 +1,45 @@
+menu "Bus tap capture"
+
+    config BUS_TAP_WIFI_SSID
+        string "Wi-Fi SSID"
+        default "myssid"
+
+    config BUS_TAP_WIFI_PASSWORD
+        string "Wi-Fi password"
+        default "mypassword"
+        help
+            Stored in plain text in sdkconfig. Do not share that file.
+
+    config BUS_TAP_HOSTNAME
+        string "DHCP hostname"
+        default "bus-tap"
+
+    config BUS_TAP_UDP_PORT
+        int "UDP port (control and stream)"
+        range 1024 65535
+        default 7777
+
+    config BUS_TAP_SAMPLE_RATE
+        int "Default total ADC conversion rate in Hz (shared by enabled channels)"
+        range 20000 2000000
+        default 60000
+        help
+            With all three channels enabled each channel gets a third of this.
+            The host can change it at runtime via UBTHELLO rate=<hz>.
+
+    config BUS_TAP_GPIO_DC
+        int "GPIO for channel A, ADC_DC (bus_tap J3-3)"
+        default 34 if IDF_TARGET_ESP32
+        default 0
+
+    config BUS_TAP_GPIO_AC
+        int "GPIO for channel B, ADC_AC (bus_tap J3-4)"
+        default 35 if IDF_TARGET_ESP32
+        default 1
+
+    config BUS_TAP_GPIO_FC
+        int "GPIO for channel C, ADC_FC (bus_tap J3-5)"
+        default 36 if IDF_TARGET_ESP32
+        default 2
+
+endmenu

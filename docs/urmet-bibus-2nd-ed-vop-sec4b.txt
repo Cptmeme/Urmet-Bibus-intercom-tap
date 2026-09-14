@@ -1,0 +1,824 @@
+                                                                SECTION 4B
+                                                                   (REV.B)
+
+
+
+
+                                             APARTMENT
+                                          VIDEO DOOR PHONE
+                                              STATIONS
+
+
+
+
+                                                              Download from:
+                                                           www.urmetdomus.com
+                                                           Technical Manuals area
+              BIBUS 2nd Ed. VOP - Technical Manual                                  sec.4b −−−− 1
+Downloaded from www.Manualslib.com manuals search engine
+           CONTENTS BIBUS II^ Ed. VOP SYSTEM - Section 4B
+                                                                                                                                               SECTION 4B CONTENTS
+                                                                                                                                                  BIBUS II^ Ed. VOP SYSTEM
+
+
+
+                                                                                                                                                                                                                                                             Sec.              Pag.
+                                                              APARTMENT VIDEO DOOR PHONE STATIONS
+                                                              ATLANTICO BLACK AND WHITE VIDEO DOOR PHONE
+                                                              SPECIFICATIONS................................................................................................................................................................................4b ................ 3
+                                                              TECHNICAL SPECIFICATIONS ..........................................................................................................................................................4b ................ 3
+
+
+                                                              ATLANTICO COLOUR VIDEO DOOR PHONE Ref. 1702/40
+                                                              SPECIFICATIONS................................................................................................................................................................................4b ................ 4
+                                                              TECHNICAL SPECIFICATIONS ..........................................................................................................................................................4b ................ 4
+
+
+                                                              ATLANTICO VIDEO DOOR PHONE
+                                                              ATLANTICO BRACKETS FOR BIBUS II^ ED. VOP SYSTEMS Ref 1202/954 ...................................................................................4b ................ 5
+                                                                Bracket terminals ..............................................................................................................................................................................4b ................ 5
+                                                                Technical specifications....................................................................................................................................................................4b ................ 5
+                                                              INSTALLATION ....................................................................................................................................................................................4b ................ 5
+                                                                Wall-mounted version .......................................................................................................................................................................4b ................ 5
+                                                                Tabletop version ...............................................................................................................................................................................4b ................ 5
+                                                              PROGRAMMING..................................................................................................................................................................................4b ................ 6
+                                                                Ringer programming .........................................................................................................................................................................4b ................ 6
+                                                                Parallel video door phone installation ...............................................................................................................................................4b ................ 6
+                                                                Auto-on .............................................................................................................................................................................................4b ................ 6
+                                                              COLOURED MASK KIT .......................................................................................................................................................................4b ................ 6
+
+
+                                                              ARTICO VIDEO DOOR PHONE Ref. 1705/1
+                                                              SPECIFICATIONS................................................................................................................................................................................4b ................ 7
+                                                              TECHNICAL FEATURES .....................................................................................................................................................................4b ................ 7
+                                                              ARTICO BRACKETS FOR BIBUS II^ ED. VOP Ref. 1705/954 ...........................................................................................................4b ................ 8
+                                                                Bracket terminals ..............................................................................................................................................................................4b ................ 8
+                                                                Technical specifications....................................................................................................................................................................4b ................ 8
+                                                              INSTALLATION ....................................................................................................................................................................................4b ................ 8
+                                                              PROGRAMMING..................................................................................................................................................................................4b ................ 8
+                                                                Ringer programming .........................................................................................................................................................................4b ................ 8
+                                                                Parallel monitor installation...............................................................................................................................................................4b ................ 8
+                                                                Auto-on .............................................................................................................................................................................................4b ................ 9
+                                                              FRONT GLASS REPLACEMENT ........................................................................................................................................................4b ................ 9
+
+
+                                                              SCAITEL BLACK AND WHITE VIDEO MODULE Ref. 1732/1
+                                                              SPECIFICATIONS................................................................................................................................................................................4b ............. 10
+                                                                Technical specifications....................................................................................................................................................................4b ............. 10
+
+
+                                                              SCAITEL COLOUR VIDEO MODULE Ref. 1732/41
+                                                              SPECIFICATIONS................................................................................................................................................................................4b ............. 10
+                                                                Technical specifications....................................................................................................................................................................4b ............. 10
+
+
+                                                              SCAITEL VIDEO MODULE
+                                                              VIDEO MODULE BRACKET Ref. 1732/957 ........................................................................................................................................4b ............. 11
+                                                                Bracket terminals ..............................................................................................................................................................................4b ............. 11
+                                                              INSTALLATION ....................................................................................................................................................................................4b ............. 11
+                                                                Wall-mounted version .......................................................................................................................................................................4b ............. 11
+                                                              TABLE MOUNTED KIT FOR SCAITEL MONITOR Ref. 1732/56 ........................................................................................................4b ............. 11
+
+                                                              .
+
+
+
+
+                                                            I −−−− sec.4b                                                                                                                                                        BIBUS 2nd Ed. VOP - Technical Manual
+Downloaded from www.Manualslib.com manuals search engine
+                                                ATLANTICO BLACK AND WHITE VIDEO DOOR PHONE
+                                                SPECIFICATIONS - TECHNICAL SPECIFICATIONS - ATLANTICO BRACKETS
+
+
+
+
+                 ATLANTICO BLACK AND WHITE VIDEO DOOR                                     TECHNICAL SPECIFICATIONS
+                 PHONE
+                                                                                          Power voltage:                                   16 ÷ 18,5Vdc
+                                                                                          Working uptake:                                     max 0,35A
+
+
+
+
+                                                                                                                                                            ATLANTICO BLACK AND WHITE VIDEO DOOR PHONE
+                                                                                          Stand-by:                                                   0A
+                                                                                          Working power:                                       max 6,5W
+                                                                                          CCIR version Vertical frequency:                   50Hz ± 2Hz
+                                                                                                         Horizontal frequency:            15625 ± 300Hz
+                                                                                          Video signal:                             1Vpp 75 Ω nominal
+                                                                                                                                  1Vpp. -6dB minimum
+                                                                                          Kinescope:                                 4” flat 13mm neck
+                                                                                          Phosphorous:                                               P45
+                                                                                          Screen size:                                        81 x 59mm
+                                                                                          Geometric distorsion:                        vertical 5% max.
+                                                                                                                                    horizontal 5% max.
+                                                                                                                                       barrel 10% max.
+                                                                                          Brightness:                            170cd/m2 max. setting
+                 The Atlantico video door phone implements an electronic call system      X-rays:                                                   none
+                 and can be used in Bibus 2nd Ed. VOP systems when equipped with          Switch-on delay:                                   4 sec. max.
+                 the specific bracket.                                                    Transmitting capsule:                    electret microphone
+                 The call volume (to dedicated speaker) can be adjusted in linear         Receiving capsule:                                45Ω speaker
+                 fashion and muted.                                                       Button voltage:                                   24Veff. max.
+                 The video door phone is easy to install because no masonry work          Button current:                                        1,2Aeff.
+                 is needed and all connections are made to the bracket on which the       Operating temperature range:                       -5° ÷ +50°C
+                 video door phone will eventually be fastened. The handset connection     Max. humidity:                                          90%RH
+                 is particularly ergonomic. A simple telephone plug is used.
+                 The door opener button by the side of the handset is lit up and green
+                 when the monitor is on.
+                 The Atlantico video door phone has innovative simple, essential
+                 designed fashioned by Michele De Lucchi and is available in 3
+                 version.
+
+                 The video door phone as available in this version:
+                 • White colour                                           Ref. 1702/1
+                 • Anthracite colour                                     Ref. 1702/41
+                 • High tech grey colour                                 Ref. 1702/42
+
+                 The front mask colour can be changed with the kit Ref. 1702/50 to suit
+                 the video door phone for all architectural contexts.
+
+
+
+                 SPECIFICATIONS
+                 The main characteristics of the video door phone are:
+                 • Flat 4” black and white video module.
+                 • Adjustable and mutable call volume. The adjustment wheel appears
+                   red when the volume is muted.
+
+                 NOTE: when volume is set to “MUTE” the video door phone will not
+                       ring but the video module will light up.
+
+
+
+
+                                                                                                                                                            APARTMENT VIDEO DOOR PHONE STATION
+                 • Door opener button is lit up and green when video module is on.
+                 • Service buttons ( and ) for activating, for example, supplementary
+                   electrical locks, staircase lights, monitor auto-on function, etc.
+                 • Adjustable brightness and contrast.
+
+                                      218 mm                    80 mm
+
+
+
+
+                  220 mm
+
+
+
+
+                                                          Door opener button
+                 Contrast adjustment
+                                                  Call volume control and adjustment/
+                 Brightness adjustment            Mute function
+                           Auxiliary buttons
+
+
+
+              BIBUS 2nd Ed. VOP - Technical Manual                                                                                         sec.4b −−−− 3
+Downloaded from www.Manualslib.com manuals search engine
+            Ref. 1702/40
+                                                                                ATLANTICO COLOUR VIDEO DOOR PHONE Ref. 1702/40
+                                                                                               SPECIFICATIONS - TECHNICAL SPECIFICATIONS
+
+
+
+
+                                                 ATLANTICO COLOUR VIDEO DOOR PHONE                                          TECHNICAL SPECIFICATIONS
+                                                 Ref. 1702/40
+                                                                                                                            Power voltage:                                        16 ÷ 18.5Vdc
+                                                                                                                            Working uptake:                                         max. 0.35A
+
+
+
+
+            ATLANTICO COLOUR VIDEO DOOR PHONE
+                                                                                                                            Stand-by:                                                        0A
+                                                                                                                            Working power:                                           max. 6.5W
+                                                                                                                            CCIR version:          Vertical frequency:              50Hz ± 2Hz
+                                                                                                                                                   Horizontal frequency:        15625 ± 300Hz
+                                                                                                                            Video signal:                                  1Vpp 75 Ω nominal
+                                                                                                                                                                         1Vpp -6 dB minimum
+                                                                                                                            LCD:                                                     4” back-lit
+                                                                                                                            Screen size:                                            81 X 59mm
+                                                                                                                            Resolution:                                      380H x 250V pixel
+                                                                                                                            Colour system:                                                  PAL
+                                                                                                                            Switch-on delay:                                        4 sec. max.
+                                                                                                                            Transmitting capsule:                         electret microphone
+                                                                                                                            Receiving capsule:                                    45Ω speaker
+                                                 The Atlantico video door phone is a colour apartment station which         Button voltage:                                        24Veff. max.
+                                                 can be used in Bibus 2nd Ed. VOP systems when equipped with the            Button current:                                              1.2Aeff
+                                                 specific bracket.                                                          Operating temperature range:                            -5° ÷ +50°C
+                                                 As the black and white version, also this model has adjustable call tone   Max. humidity:                                              90% RH
+                                                 volume and muting functions.
+                                                 The video door phone is easy to install because no masonry work
+                                                 is needed and all connections are made to the bracket on which the
+                                                 video door phone will eventually be fastened. The handset connection
+                                                 is particularly ergonomic. A simple telephone plug is used.
+                                                 The video door phone is only white but the front part can be customised
+                                                 by replacing the standard frame (blue) with one of the five frames from
+                                                 the Ref. 1702/50 kit.
+
+
+
+                                                 SPECIFICATIONS
+                                                 The main characteristics of the video door phone are:
+                                                 • Flat 4” LCD colour module.
+                                                 • Adjustable and mutable call volume. The adjustment wheel appears
+                                                   red when the volume is muted.
+
+                                                 NOTE: when volume is set to “MUTE” the video door phone will not
+                                                       ring but the video module will light up.
+
+                                                 • Door opener button is lit up and green when video module is on.
+                                                 • Service buttons ( and ) for activating, for example, supplementary
+                                                   electrical locks, staircase lights, video door phone auto-on function,
+                                                   etc.
+                                                 • Adjustable brightness and contrast.
+
+                                                                       218 mm                    80 mm
+
+
+
+
+           APARTMENT VIDEO DOOR PHONE STATION
+                                                  220 mm
+
+
+
+
+                                                                                           Door opener button
+                                                      Colour adjustment
+                                                                                   Call volume control and adjustment/
+                                                 Brightness adjustment             Mute function
+                                                           Auxiliary buttons
+
+
+
+
+                                                4 −−−− sec.4b                                                                                               BIBUS 2nd Ed. VOP - Technical Manual
+Downloaded from www.Manualslib.com manuals search engine
+                                                                  ATLANTICO VIDEO DOOR PHONE
+                                                   ATLANTICO BRACKETS FOR BIBUS II^ ED. VOP SYSTEMS Ref. 1202/954
+                                                                         INSTALLATION
+
+
+                 ATLANTICO BRACKETS FOR BIBUS II^ ED.                                                                                  Bracket
+                 VOP SYSTEMS Ref. 1202/954
+
+
+
+
+                                                                                                                                                                        ATLANTICO VIDEO DOOR PHONE
+                                                                                                                                                    1,55 m
+
+                                                                                                         A
+                 Atlantico video door phone are provided without fastening bracket
+                 which must be purchased separately.
+                 • Bracket for Bibus II^ ed. VOP systems             Ref. 1202/954
+
+                 The following functions are offered by using brackets Ref. 1202/954 in
+                 combination with Atlantico video door phones:                                TABLETOP VERSION
+                 • Non-polarised video input.
+                                                                                              Atlantico can be table-mounted using the specific kit Ref. 1702/92
+                 • Video connection with floor distributor Ref. 1074/54.
+                                                                                              containing: one tabletop stand, one socket and one cord.
+                 • In/out video connection.
+                 • Possibility of connecting an additional video door phone.                  Proceed as follows:
+                 • Privacy function.                                                          1) Insert the wire from the junction box through the rear hole of the
+                 • 6 two-tone ringers (the installer can select the door phone call and          support and fasten it using the U-bolt and the screw provided.
+                   floor call tones).                                                         2) Connect the junction box wires to the specific terminals on the
+                                                                                                 bracket.
+                                                                                              3) Set the switch (on the video door phone rear) on position B.
+                 BRACKET TERMINALS
+                 VPI     VOP signal input terminals                                                                             A
+                 VPU     VOP signal output terminals (for in-out or parallel video door                                         B
+                         phone connection)
+                 L1
+                 L2    } Door phone bus                                                       4) Extract the retainer hook A from the video door phone.
+                 C1                                                                           5) Fit the video door phone on the bracket and fasten it by pushing
+                 C2    } Floor call                                                              the hook A up.
+                                                                                              6) Connect the system wires to the corresponding socket terminals.
+                 Important: Never fit the video terminal resistors.
+                                                                                              NOTE: consider the following correspondence between terminals
+                                                                                                    when using the table mounting kit in Bibus 2nd edition VOP
+                 TECHNICAL SPECIFICATIONS                                                           systems:
+                 Max. VPI uptake with video door phone fitted:                     450mA         Table mounting kit                   Bracket
+                 Stand-by uptake (L1, L2):                                   1.6mA max.             Ref. 1702/92                    Ref. 1202/954
+                 Temperature:                                                  -5 ÷ +45°C                R1              →               VPI
+                                                                                                         R2              →               VPI
+                                                                                                         X1              →                L1
+                                                                                                         X2              →                L2
+                 INSTALLATION                                                                            Y1              →                C1
+
+
+
+
+                                                                                                                                                                        APARTMENT VIDEO DOOR PHONE STATION
+                                                                                                         Y2              →                C2
+                 The device can be wall-mounted (on a bracket) or rested on a
+                 horizontal surface by using the specific tabletop stand in addition to the   Important: The table mounting kit Ref. 1702/92 may be used
+                 bracket.                                                                     for installing video door phones without in/out connection to other
+                                                                                              devices.
+                 WALL-MOUNTED VERSION
+                 1) Arrange the duct so that it ends in correspondence with one of the
+                    input holes.
+                 2) Fasten the bracket to the wall at the height from the floor shown by
+                    means of the four screws.
+                 3) Set the switch (on back of video door phone) to position “B” before
+                    fitting the video door phone.
+                                                                                                                                       B
+                                                      A
+                                                      B
+
+
+                 4) Connect the wires to the specific terminals
+                 5) Extract the retainer hook A by inserting the tip of a screwdriver and
+                    pulling the hook downwards.                                                 A
+                 6) Fasten the video door phone to the bracket as shown in the
+                    figure.
+                 7) Fasten the video door phone by pushing the retainer hook A
+                    upwards.
+
+              BIBUS 2nd Ed. VOP - Technical Manual                                                                                                      sec.4b −−−− 5
+Downloaded from www.Manualslib.com manuals search engine
+                                                                                                  ATLANTICO VIDEO DOOR PHONE
+                                                                                                      PROGRAMMING - COLOURED MASK KIT
+
+
+
+
+                                                 PROGRAMMING                                                                 COLOURED MASK KIT
+                                                 The procedure for programming video door phone user codes is the same       The video door phone can be customised by replacing the front mask
+                                                 as for Bibus 2nd edition door phones. Go to the apartment, press the door   and add-on name tag with those contained in the Ref. 1702/50 kit.
+
+
+
+
+            ATLANTICO VIDEO DOOR PHONE
+                                                 opener button and pick up the video door phone handset after setting up     The kit contains masks and cards of the following colours:
+                                                 the video door phone booking sequence on the call station or concierge      • Yellow
+                                                 switchboard.                                                                • Pink
+                                                 Release the video door opener button and hang up.                           • Grey
+                                                 The door phone will sound to indicate that it has been programmed.          • Green
+                                                                                                                             • Blue
+
+                                                 RINGER PROGRAMMING
+                                                                                                                                                            A
+
+
+                                                                                                (b)
+                                                                                  (a)
+
+
+
+                                                                                                                                   4 mm slot screwdriver
+                                                                                                                                     rotary movement
+
+                                                                                                                                       B
+
+
+
+
+                                                 1.   Release the video door phone from the bracket.
+                                                 2.   Move jumper W1 from position “a” to position “b”.
+                                                 3.   Re-fasten the video door phone.
+                                                 4.   Press the auxiliary service button. The door phone tone will change
+                                                      each time the button is pressed. Go to the next step once the
+                                                      ringer has been selected.
+                                                 5.   Press the concierge call button. The floor call ringer will change
+                                                                                                                                  C                                 D
+                                                      each time the button is pressed. Go to the next step once the
+                                                      ringer has been selected.
+                                                 6.   Release the video door phone from the bracket.
+                                                 7.   Return jumper W1 to position “a”.
+                                                 8.   Re-fasten the video door phone.
+
+
+                                                 PARALLEL VIDEO DOOR PHONE INSTALLATION
+                                                 A configuration of up to two video door phones in parallel can be
+                                                 obtained without the addition of local power units (refer to the VOP
+                                                 1074/20 video power unit instruction booklet for wiring). A door phone
+                                                 with additional self-powered ringer may be added to the two video door
+                                                 phones in parallel.                                                              E
+
+
+
+
+           APARTMENT VIDEO DOOR PHONE STATION
+                                                 Operation is described below. Both video door phones (and the door
+                                                 phone connected in parallel where relevant) ring when a call is received
+                                                 but only the “master” video door phone (i.e. the one connected directly               1
+                                                 to the column or to the VOP extension) will light up.
+                                                 The picture can be seen on the video door phone which is off from this
+                                                 time until the programmed call station off-hook time-out (typically 40
+                                                 seconds) by pressing the concierge call button without picking up the                            2                     3
+                                                 handset.
+                                                 The handset of either of the two video door phones can be picked up
+                                                 to establish a communication with the door unit and definitely capture
+                                                 the picture.
+
+                                                 NOTE: the floor call button must be connected to a single video door
+                                                       phone.                                                                Other media, such as photographs or wall paper, can be used to
+                                                                                                                             customise the video door phone instead of the Ref. 1702/50 kit. In this
+                                                                                                                             case, use one of the frames provided as a template to trace the exact
+                                                 AUTO-ON                                                                     installation profile.
+
+                                                 Video or audio/video auto-on from the MAIN station 1 is possible. With
+                                                 the door phone standing by, press the concierge call button without
+                                                 picking up the handset. Nothing will happen if the main station 1 has
+                                                 either a conversation in progress or is busy; otherwise, the video door
+                                                 phone will ring and the video door phone will light up. The door can be
+                                                 opened and a voice connection can be established by picking up the
+                                                 handset within the off-hook time-out (typically 40 seconds).
+
+
+                                                6 −−−− sec.4b                                                                                                 BIBUS 2nd Ed. VOP - Technical Manual
+Downloaded from www.Manualslib.com manuals search engine
+                                                                                                                                                                      Ref. 1705/1
+                                                         ATLANTICO VIDEO DOOR PHONE Ref. 1705/1
+                                                                   SPECIFICATIONS - TECHNICAL FEATURES
+
+
+
+
+                 ARTICO VIDEO DOOR PHONE Ref. 1705/1                                                                 200 mm                        83 mm
+
+
+
+
+                                                                                                                                                                      ATLANTICO VIDEO DOOR PHONE
+                                                                                                   241 mm
+                                                                                                                                         A
+
+                                                                                                                                        B1
+
+                                                                                                                                        B2
+
+
+                                                                                                                       C      D     E
+
+                                                                                             A Door opener button.
+                 Artico offers the most modern technology applied to picture display and     B1 Auxiliary button: used for special functions.
+                 the best quality/price ratio. These features make the video door phone      B2 Auxiliary button: used for calling the concierge station and
+                 suitable for normal communication needs and security applications in           auto-on.
+                 video door phone systems.                                                   C Contrast adjustment control.
+                 Thanks to the use of a functional flat 4” screen which reduces the          D Brightness adjustment control.
+                 protrusion from the wall, Artico can be installed on the wall without the   E Call volume control and adjustment: turn the knob as far as it
+                 need for masonry work.                                                         will go (red part visible) to mute the call tone (“MUTE” function).
+                 Connection of this video door phone are also simple and rapid, thanks
+                 to the terminal board arranged on the dedicated bracket.
+
+                                                                                             TECHNICAL FEATURES
+                 SPECIFICATIONS                                                              Power voltage:                                          16 ÷ 18,5Vdc
+                                                                                             Working uptake:                                             max 0,6A
+                 The main characteristics of the video door phone are:                       Working power:                                               max 10W
+                 • Flat 4” LCD black and withe video module.                                 CCIR Version Vertical frequency:                          50Hz ± 2Hz
+                 • Adjustable and mutable call volume. The adjustment wheel appears                         Horizontal frequency:                  15625 ± 300Hz
+                   red when the volume is muted.                                             Video signal:                                     1Vpp 75Ω nominal
+                                                                                                                                             1Vpp -6dB minimum
+                                                                                             Kinescope:                                 4” tipo FLAT 20mm neck
+                                                                                             Phosphorous:                                                      P45
+                                                                                             Geometric distorsion:                               vertical 5% max
+                                                                                                                                               horizontal 5% max
+                                                                                                                                                  barrel 10% max
+                                                                                             Brightness:                                 >100cd/m2 max. setting
+                                                                                             X-rays:                                                          none
+                                                                                             Switch-on delay:                                           7 sec. max
+                             MAX                   MED                  MUTE                 Transmitting capsule:                           electret microphone
+                                                                                             Receiving capsule:                                      speaker 45Ω
+                                                                                             Button voltage:                                          24Veff. max
+                 • Door opener button dedicated.
+                                                                                             Button current:                                                1,2Aeff
+                 • One service button ( ) which can be used, for example, to switch
+                                                                                             Operating temperature range:                              -5° ÷ +50°C
+                   on the staircase lights or open an additional lock.
+                                                                                             Max. humidity:                                                90% UR
+                 • One button for calling the concierge station and auto-on ( ):
+
+
+
+
+                                                                                                                                                                      APARTMENT VIDEO DOOR PHONE STATION
+                   Door unit: pick up the handset and press the button.
+                   Auto-on: press the button without picking up the handset.
+                 • Two potentiometers for adjusting picture brightness and contrast.
+
+
+
+
+              BIBUS 2nd Ed. VOP - Technical Manual                                                                                                   sec.4b −−−− 7
+Downloaded from www.Manualslib.com manuals search engine
+            Ref. 1705/1
+                                                                                         ATLANTICO VIDEO DOOR PHONE Ref. 1705/1
+                                                                                 ARTICO BRACKETS FOR BIBUS II^ ED. VOP Ref. 1705/954 - INSTALLATION
+                                                                                                        PROGRAMMING
+
+
+                                                 ARTICO BRACKETS FOR BIBUS II^ ED. VOP
+                                                 Ref. 1705/954                                                                             Ref. 1705/1
+
+
+
+
+            ATLANTICO VIDEO DOOR PHONE
+                                                                                                                                                                                               1,55 m
+                                                                                                                                                                            ON
+                                                                                                                                                                                  DIP
+                                                                                                                                                                                          ON
+                                                                                                                                                                            12
+                                                                                                                                                                                 34
+                                                                                                                                                                                      5
+                                                                                                                                                                                          12
+
+
+
+
+                                                                                                                                       A
+
+
+
+
+                                                 Artico video door phone is provided without fastening bracket which
+                                                 must be purchased separately.
+                                                 • Bracket for Bibus II^ ed. VOP systems               Ref. 1705/954
+                                                                                                                             PROGRAMMING
+                                                 The following functions are offered by using Ref. 1705/954 brackets in
+                                                 combination with Artico monitors:                                           The procedure for programming video door phone user codes is the
+                                                 • Non-polarised video input.                                                same as for Bibus 2nd edition door phones. Go to the apartment, press
+                                                 • Video connection with floor distributor Ref. 1074/54.                     the door opener button and pick up the video door phone handset after
+                                                 • In/out video connection.                                                  setting up the video door phone booking sequence on the call station
+                                                 • Possibility of connecting an additional monitor.                          or concierge switchboard.
+                                                 • Privacy function.                                                         Release the video door opener button and hang up.
+                                                 • 6 two-tone ringers (the installer can select the door phone call and      The door phone will sound to indicate that it has been programmed.
+                                                   floor call tones).
+
+                                                                                                                             RINGER PROGRAMMING
+                                                 BRACKET TERMINALS
+                                                 VPI    VOP signal input terminals                                                                                          (b)
+                                                 VPU    VOP signal output terminals (for in-out or parallel monitor                                           (a)
+                                                        connection)
+                                                 L1, L2 Door phone bus
+                                                 C1, C2 Floor call
+
+                                                 Important: Never fit the video terminal resistors.
+
+
+                                                 TECHNICAL SPECIFICATIONS
+                                                 Max. VPI uptake with monitor fitted:                            700mA
+                                                 Stand-by uptake (L1, L2):                                  1.6mA max.
+                                                 Temperature:                                                 -5 / +45°C
+
+
+
+
+           APARTMENT VIDEO DOOR PHONE STATION
+                                                 INSTALLATION
+                                                                                                                             1.   Release the monitor from the bracket.
+                                                 Arrange the duct so that it ends in correspondence with the input hole      2.   Move jumper W1 from position “a” to position “b”.
+                                                 on the bracket and proceed as follows:                                      3.   Re-fasten the monitor.
+                                                 1 Fasten the bracket to the wall at the height from the floor shown by      4.   Press the auxiliary service button. The door phone tone will change
+                                                     means of the four screws.                                                    each time the button is pressed. Go to the next step once the
+                                                 2 Connect the wires to the specific terminals.                                   ringer has been selected.
+                                                 3 Set the switch (on back of monitor) to position “B” before fitting the    5.   Press the concierge call button. The floor call ringer will change
+                                                     monitor.                                                                     each time the button is pressed. Go to the next step once the
+                                                                                                                                  ringer has been selected.
+                                                                                     A                                       6.   Release the monitor from the bracket.
+                                                                                     B                                       7.   Return jumper W1 to position “a”.
+                                                                                                                             8.   Re-fasten the monitor.
+
+                                                 4   Extract the retainer hook A by inserting the tip of a screwdriver and
+                                                     pulling the hook downwards.                                             PARALLEL MONITOR INSTALLATION
+                                                 5   Fasten the monitor to the bracket.
+                                                 6   Fasten the monitor by pushing the retainer hook A upwards.              A configuration of up to two video door phones in parallel can be
+                                                                                                                             obtained without the addition of local power units (refer to the VOP
+                                                                                                                             Ref. 1074/20 video power unit instruction booklet for wiring). A door
+                                                                                                                             phone with additional self-powered ringer may be added to the two
+                                                                                                                             video door phones in parallel.
+
+
+                                                8 −−−− sec.4b                                                                                                  BIBUS 2nd Ed. VOP - Technical Manual
+Downloaded from www.Manualslib.com manuals search engine
+                                                                                                                                                                    Ref. 1705/1
+                                                        ATLANTICO VIDEO DOOR PHONE Ref. 1705/1
+                                                                         FRONT GLASS REPLACEMENT
+
+
+
+                 Operation is described below. Both video door phones (and the              FRONT GLASS REPLACEMENT
+                 door phone connected in parallel where relevant) ring when a call is
+                 received but only the “master” monitor (i.e. the one connected directly    The video door phone can be customised by replacing the front glass.
+                 to the column or to the VOP extension) will light up.                      The following colours are available:
+
+
+
+
+                                                                                                                                                                    ATLANTICO VIDEO DOOR PHONE
+                 The picture can be seen on the monitor which is off from this time until   • Smoky grey                                            Ref. 1705/101
+                 the programmed call station off-hook time-out (typically 40 seconds)                                       (pre-fitted on the video door phone)
+                 by pressing the concierge call button without picking up the handset.      • Blue                                                  Ref. 1705/102
+                 The handset of either of the two video door phones can be picked up
+                 to establish a communication with the door unit and definitely capture                     A                              B
+                 the picture.
+
+                 NOTE: the floor call button must be connected to a single video door
+                       phone.
+
+
+                 AUTO-ON
+                 Video or audio/video auto-on from the MAIN station 1 is possible. With
+                 the door phone standing by, press the concierge call button without
+                 picking up the handset. Nothing will happen if the main station 1 has
+                 either a conversation in progress or is busy; otherwise, the video door
+                 phone will ring and the monitor will light up. The door can be opened
+                 and a voice connection can be established by picking up the handset
+                 within the off-hook time-out (typically 40 seconds).
+
+
+
+
+                                                                                                            C                              D
+
+
+
+
+                                                                                                                                                                    APARTMENT VIDEO DOOR PHONE STATION
+
+
+
+
+              BIBUS 2nd Ed. VOP - Technical Manual                                                                                                 sec.4b −−−− 9
+Downloaded from www.Manualslib.com manuals search engine
+         Ref. 1732/41                                                                    SCAITEL BLACK AND WHITE VIDEO MODULE Ref. 1732/1
+                                                                                                                           SPECIFICATIONS
+          Ref. 1732/1
+                                                                                                SCAITEL COLOUR VIDEO MODULE Ref. 1732/41
+                                                                                                                           SPECIFICATIONS
+
+
+                                                           SCAITEL BLACK AND WHITE VIDEO MODULE                                       SCAITEL      COLOUR                      VIDEO            MODULE
+                                                           Ref. 1732/1                                                                Ref. 1732/41
+
+
+
+
+         SCAITEL BLACK AND WHITE VIDEO MODULE
+
+
+
+
+                  SCAITEL COLOUR VIDEO MODULE
+                                                           The Scaitel video module Ref. 1732/1 has a 4” flat screen black            The Scaitel colour video module Ref. 1732/41 can be exclusively
+                                                           and white monitor and can be used in combination with switchboards         combined to a switchboard so that concierge personnel can see
+                                                           Ref. 1072/42 so that the operator can see visitors.                        visitors.
+
+
+
+                                                           SPECIFICATIONS                                                             SPECIFICATIONS
+                                                           Available in matte white plastic (ABS) only, the device is equipped with   Available in matte white plastic (ABS) only, the device is equipped with
+                                                           two potentiometers for adjusting picture brightness ( ) and contrast       two potentiometers for adjusting picture brightness ( ) and colour
+                                                           ( ).                                                                       ( ).
+                                                                                          167 mm                                                                    167 mm
+
+
+
+
+                                                                            220 mm                                                                     220 mm
+
+
+
+
+                                                                      Contrast adjustment                                                         Colour adjustment                      56 mm
+                                                                                                               56 mm
+                                                                      Brightness adjustment                                                      Brightness adjustment
+
+                                                           The video module can be installed to the wall by means of a bracket        The monitor (basic or with add-on modules) can be table-mounted
+                                                           with connector and terminal board.                                         using a specific transformation kit.
+                                                           The monitor can be table-mounted using a specific transformation kit.
+
+                                                                                                                                      TECHNICAL SPECIFICATIONS
+                                                           TECHNICAL SPECIFICATIONS
+
+
+
+
+                     APARTMENT VIDEO DOOR PHONE STATION
+                                                                                                                                      Power voltage:                                  16 ÷ 18.5Vdc
+                                                           Power:                                                  16 ÷ 18.5Vdc       Working uptake            working:                0.35A max.
+                                                           Consumption:                        0.35A max. working 0mA stand-by                                  stand-by:                       0mA
+                                                           Power:                                            6.5W max. working        Working Power:                                      6.5W max
+                                                           CCIR version:             Vertical frequency:            50Hz ± 2Hz        CCIR version:         Vertical frequency:         50Hz ± 2Hz
+                                                                                     Horizontal frequency:       15625 ± 400Hz                              Horizontal frequency:    15625 ± 400Hz
+                                                                                                                                      Resolution:                                      480H x 234V
+                                                           Resolution:                            400 lines in middle of screen       Video input:               1Vpp-75Ohm nominal 1Vpp -6dB min.
+                                                           Video input:                                  1Vpp-75Ohm nominal           Kinescope:                                              4” TFT
+                                                                                                                1Vpp -6dB min.        Colour system:                                            PAL
+                                                           Kinescope:                                                     4” flat     Screen size:                                      81 x 59mm
+                                                           Phosphorous:                                                     P45       Working temperature range:                           -5 + 45°C
+                                                           Screen size:                                             81 x 59mm         Storage temperature range:                         -20 + 60°C
+                                                           Geometric distortion:        vertical 8% max. - horizontal 12% max.        Humidity:                                       90% RH max
+                                                           Brightness:                                   170cd/m2 max. setting
+
+                                                           Working temperature range:                                  - 5 + 45°C
+                                                           Storage temperature range:                                 -20 + 60°C
+                                                           Humidity:                                               90 % RH max.
+
+
+
+
+                                                          10 −−−− sec.4b                                                                                               BIBUS 2nd Ed. VOP - Technical Manual
+Downloaded from www.Manualslib.com manuals search engine
+                                                                         SCAITEL VIDEO MODULE
+                                                          VIDEO MODULE BRACKET Ref. 1732/957 - INSTALLATION
+                                                         TABLE MOUNTED KIT FOR SCAITEL MONITOR Ref. 1732/56
+
+
+                 VIDEO MODULE BRACKET Ref. 1732/957                                       TABLE MOUNTED KIT FOR SCAITEL MONITOR
+                                                                                          Ref. 1732/56
+
+
+
+
+                                                                                                                                                                     SCAITEL VIDEO MODULE
+                                                                                          Use the tabletop transformation kit Ref. 1732/56.
+                                                                                          Proceed as follows:
+                                                                                          • Insert the four adhesive rubbers provided in the housings under the
+                                                                                            base of the table mounting stand.
+                                                                                          • Break the base of only one of the three wire passage areas shown
+                                                   Switchboard                              in Fig. 2.
+                                                   connection wire CN2                    • Insert the junction box wire in the hole and fasten it with the U-bolt
+                                                                                            and screw (α) provided to the table.
+                                                                                          • Fasten the bracket by means of the specific screws. (Fig. 1).
+                                                                                          • Connect the junction box wires to the specific terminals on the
+                                                                                            bracket.
+                 Note: the bracket can be used either with colour and black and white
+                       video door phone.                                                  NOTE: consider the following correspondence between terminals for
+                                                                                                using the table mounting kit with bracket Ref. 1732/957:
+
+                 BRACKET TERMINALS                                                             Table mounting kit           Scaitel bracket for
+                                                                                                  Ref. 1732/56          Bibus 2nd edition VOP systems
+                 R1      Monitor power negative                                                                               Ref. 1732/957
+                 R2      Monitor power positive                                                       R1               →            R1
+                 RD      Parallel monitor power *                                                     R2               →            R2
+                 0V      Control signal ground                                                        RD               →            RD
+                 CV      Video module control signal (from switchboard)                               0V               →            0V
+                 AS      Additional video module video signal negative                                CV               →            CV
+                 BS      Additional video module video signal positive                                 1               →            AS
+                 AO      Video signal negative passing output                                          2               →            BS
+                 BO      Video signal positive passing output                                         R3               →            AO
+                 AI      Input video signal negative                                                  CA               →            BO
+                 BI      Input video signal positive                                                   A               →             AI
+                                                                                                       B               →             BI
+                 * System configuration must include a suitably dimensioned power
+                   unit.                                                                  • Extract the stop bolt A from the monitor.
+                                                                                          • Fasten the monitor to the bracket and lock it by pushing the bolt A
+                                                                                            inwards.
+                                                                                          • Connect the system wires to the corresponding socket terminals.
+                 INSTALLATION
+                                                                                                                                           Ref. 1732/56
+                                                                                                                                       α
+                 WALL-MOUNTED VERSION
+                 Proceed as follows to fasten the video module only:                                       Ref. 1732/957
+                 • Arrange the duct so that it ends in correspondence with the input
+                   hole.
+                 • Fasten the bracket to the wall at the height from the floor shown by                         α
+                   means of bolts.
+                 • Connect the wires to the specific terminals.
+                 • Set the correct distance between bracket and camera with the dip
+                   switches.
+                            0-200m      200-450m    450-700m 700-1000m
+
+                                                                                                                α
+
+
+
+
+                                                                                                                                                                     APARTMENT VIDEO DOOR PHONE STATION
+                 • Extract the stop bolt A.
+                 • Fasten the monitor to the bracket and lock the device by pushing the                                 Fig. 1              a
+                   bolt “A” inwards.
+                                                        Ref. 1732/957                                                                                     a
+                                                                                           A
+
+
+
+                                                                                                                                      a
+                                                                                                                                                Fig. 2
+
+                                                                    1,55 m
+
+                             A
+
+
+
+
+              BIBUS 2nd Ed. VOP - Technical Manual                                                                                                sec.4b −−−− 11
+Downloaded from www.Manualslib.com manuals search engine
+           APARTMENT VIDEO DOOR PHONE STATION
+
+
+
+
+                                                12 −−−− sec.4b   BIBUS 2nd Ed. VOP - Technical Manual
+Downloaded from www.Manualslib.com manuals search engine
+

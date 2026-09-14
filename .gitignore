@@ -1,0 +1,24 @@
+# KiCad local files
+*-backups/
+*.kicad_prl
+*.lck
+fp-info-cache
+_autosave-*
+.DS_Store
+
+# ESP-IDF build output
+build/
+managed_components/
+sdkconfig.old
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Stale gerber export (current set is in jlc/)
+bus_tap/Gerbers/Archive.zip
+
+# Holds the Wi-Fi password once configured (defaults live in sdkconfig.defaults)
+firmware/bus_tap_capture/sdkconfig
