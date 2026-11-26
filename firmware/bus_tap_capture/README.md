@@ -7,19 +7,20 @@ and streams them over Wi-Fi/UDP to the host tools in `host/`.
 > goes near the intercom. Once J1 is connected, power the ESP32 from an **isolated USB
 > supply only** and never plug it into a computer. That is why data leaves over Wi-Fi.
 
-## Build and flash (ESP-IDF 5.3)
+## Build and flash (ESP-IDF 6.0.2)
 
 ```sh
 cd firmware/bus_tap_capture
-export IDF_PYTHON_ENV_PATH=$HOME/.espressif/python_env/idf5.3_py3.13_env
-. $HOME/esp/esp-idf/export.sh
+export IDF_PYTHON_ENV_PATH=$HOME/.espressif/python_env/idf6.0_py3.13_env
+. $HOME/.espressif/v6.0.2/esp-idf/export.sh
 idf.py set-target esp32
 idf.py menuconfig          # "Bus tap capture": Wi-Fi SSID and password
 idf.py -p /dev/cu.usbserial-XXXX flash monitor
 ```
 
 `IDF_PYTHON_ENV_PATH` is needed on this machine: without it `export.sh` picks Homebrew's
-Python 3.14 and looks for a py3.14 IDF environment that does not exist.
+Python 3.14 and looks for a py3.14 IDF environment that does not exist. Earlier versions were
+built with ESP-IDF 5.3.2. The code needed no changes for ESP-IDF 6.
 
 The Wi-Fi password is stored in plain text in `sdkconfig`; don't share that file.
 
@@ -51,7 +52,7 @@ ADC1 pins only; ADC2 does not work while Wi-Fi is on. Pins are configurable in m
 
 ## What has and hasn't been verified
 
-Verified: builds for ESP32 on IDF 5.3.2 with no warnings from `main/`; the protocol
+Verified: builds for ESP32 on IDF 6.0.2 (and before that 5.3.2) with no warnings from `main/`; the protocol
 layout matches the host byte for byte; the host recorder, gap accounting and gated
 recording pass against a protocol-identical fake on localhost.
 
